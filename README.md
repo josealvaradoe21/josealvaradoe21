@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jose Arturo
-- 👀 I'm interested in consensus algorithms.
+- 👀 I'm interested in blockchain and consensus algorithms.
 - 📫 Contact me https://www.linkedin.com/in/josealvaradoe21/
 
 <!---
